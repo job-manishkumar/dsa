@@ -1,6 +1,4 @@
-package scaler.day31.additionalproblems;
-
-import java.util.Arrays;
+package scaler.day31_carryforwardandsubarray.additionalproblems;
 
 public class FindLeader {
 

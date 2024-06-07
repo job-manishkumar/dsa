@@ -1,4 +1,4 @@
-package scaler.day31;
+package scaler.day31_carryforwardandsubarray;
 
 public class FindSequence {
 

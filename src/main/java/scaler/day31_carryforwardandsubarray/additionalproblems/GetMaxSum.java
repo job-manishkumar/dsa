@@ -1,4 +1,4 @@
-package scaler.day31.additionalproblems;
+package scaler.day31_carryforwardandsubarray.additionalproblems;
 
 public class GetMaxSum {
 
