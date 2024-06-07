@@ -1,4 +1,4 @@
-package scaler.day46.addtionalproblems;
+package scaler.day46_recursion1.addtionalproblems;
 
 public class PrintATo1 {
 

@@ -1,6 +1,4 @@
-package scaler.day32;
-
-import java.util.Currency;
+package scaler.day32_slidingwidnow_contributiontechnique;
 
 public class MaximumSubArrayEasy {
 

@@ -1,4 +1,4 @@
-package scaler.day32;
+package scaler.day32_slidingwidnow_contributiontechnique;
 
 public class SubArrayGivenSumAndLength {
 
