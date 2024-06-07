@@ -1,4 +1,4 @@
-package scaler.day46;
+package scaler.day46.addtionalproblems;
 
 public class SumOfDigits {
 	/*Given a number A, we need to find the sum of its digits using recursion.*/
