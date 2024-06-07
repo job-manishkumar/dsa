@@ -1,4 +1,4 @@
-package scaler.day29;
+package scaler.day29_introductiontoarray;
 
 import java.util.Arrays;
 

@@ -1,6 +1,4 @@
-package scaler.day30;
-
-import java.util.Arrays;
+package scaler.day30_prefixsum;
 
 public class FairSumInArray {
 

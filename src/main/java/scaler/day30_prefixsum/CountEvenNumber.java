@@ -1,4 +1,4 @@
-package scaler.day30;
+package scaler.day30_prefixsum;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package scaler.day29;
+package scaler.day29_introductiontoarray;
 
 public class GoodPair {
 

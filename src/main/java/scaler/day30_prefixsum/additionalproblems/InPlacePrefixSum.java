@@ -1,4 +1,4 @@
-package scaler.day30.additionalproblems;
+package scaler.day30_prefixsum.additionalproblems;
 
 import java.util.Arrays;
 

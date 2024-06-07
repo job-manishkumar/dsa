@@ -1,4 +1,4 @@
-package scaler.day29.additionalproblems;
+package scaler.day29_introductiontoarray.additionalproblems;
 
 public class FindGreaterThanSelf {
 
